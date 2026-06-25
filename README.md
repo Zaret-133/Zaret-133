@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- NOTE: Upload your banner image to your repository, then replace 'banner.jpg' with your actual image file name or link -->
-  <img src="banner.jpg" alt="Zaret Cortorreal Banner" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/Zaret-133/Zaret-133/main/banner.jpg" alt="Zaret Cortorreal Banner" width="100%" />
   <br />
 
   <h2>Cybersecurity Portfolio</h2>
