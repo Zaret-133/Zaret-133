@@ -1,39 +1,84 @@
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/Zaret-133/Zaret-133/main/banner.jpg" alt="Zaret Cortorreal Banner" width="100%" />
-  
+  <!-- ANIMATED TYPING BANNER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=ZARET+CORTORREAL;QA+Automation+Engineer+%E2%9E%A1+Cybersecurity;Securing+Pipelines+%26+Auditing+Data" alt="Typing SVG" />
+  </a>
+
   <br />
 
-  <h2>Cybersecurity Portfolio</h2>
+  <h2>⚡ Cybersecurity & Automation Portfolio ⚡</h2>
   <strong>QA Automation Engineer transitioning into Cybersecurity</strong><br>
   Security Automation • Blue Team • Linux • Networking • SOC Foundations<br><br>
 
-  <!-- Custom Shields.io Badges -->
-  <img src="https://img.shields.io/badge/CYBERSECURITY-FELLOW-blueviolet?style=for-the-badge" alt="Cybersecurity Fellow"/>
-  <img src="https://img.shields.io/badge/FOCUS-SECURITY_AUTOMATION-success?style=for-the-badge" alt="Security Automation"/>
-  <img src="https://img.shields.io/badge/BLUE_TEAM-SOC-blue?style=for-the-badge" alt="Blue Team SOC"/>
+  <!-- MULTI-COLOR ANIMATED BADGES -->
+  <img src="https://img.shields.io/badge/CYBERSECURITY-FELLOW-blueviolet?style=for-the-badge&logo=checkpoint-software&logoColor=white" alt="Cybersecurity Fellow"/>
+  <img src="https://img.shields.io/badge/FOCUS-SECURITY_AUTOMATION-success?style=for-the-badge&logo=python&logoColor=white" alt="Security Automation"/>
+  <img src="https://img.shields.io/badge/BLUE_TEAM-SOC-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Blue Team SOC"/>
 </div>
 
 ---
 
-### About Me
+### 🟢 System Status: Active
 
-I am a QA Automation Engineer with over 5 years of hands-on experience in Selenium, Java, API testing, CI/CD, and test automation[cite: 1, 2]. I am currently expanding into cybersecurity as a Fellow at The Knowledge House through practical labs focused on Linux, networking, security automation, infrastructure hardening, and threat analysis[cite: 2].
+> `[INFO]` Loading profile data for Zaret Cortorreal...  
+> `[INFO]` 5+ Years QA Automation Experience detected.  
+> `[INFO]` Analytical Auditing Mindset engaged (B.S. Accounting).[cite: 1, 2]
 
-What sets me apart is my dual background: I also hold a B.S. in Accounting, which gives me a rigorous, analytical, and audit-oriented mindset[cite: 1, 2]. My goal is to combine my automation background and data-auditing expertise with cybersecurity skills to build tools, detect risks, improve security processes, and support Blue Team operations.
+I am a results-driven QA Automation Engineer with over 5 years of hands-on experience in Selenium, Java, API testing, and CI/CD workflows[cite: 1, 2]. Currently, I am expanding my technical perimeter as a Cybersecurity Fellow at The Knowledge House, mastering hands-on risk management, network security, and infrastructure hardening[cite: 2].
+
+My superpower is my background in **Accounting & Auditing**, which allows me to approach system vulnerabilities and compliance mapping with unmatched precision[cite: 1, 2]. 
+
+---
+
+### 🛠️ Animated Tech Stack & Tools
+
+<p align="left">
+  <!-- JAVA -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- PYTHON -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <!-- SELENIUM -->
+  <img src="https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+  <!-- LINUX -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- JENKINS -->
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <!-- DOCKER -->
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- POSTMAN -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### Portfolio Focus
+### 📊 Live GitHub Metrics (Updates Automatically)
 
-This portfolio documents my hands-on cybersecurity learning and lab work in a simulated enterprise environment.
-
-### Key Areas
-
-*   **Security Automation:** Automating port scanning and network monitoring tasks using Python[cite: 2].
-*   **Vulnerability Assessment:** Identifying and remediating system exploits using Metasploit and Nmap[cite: 2].
-*   **DevSecOps & CI/CD:** Securing deployment pipelines and automating quality gates using Jenkins[cite: 1, 2].
-*   **System Integrity & Auditing:** Leveraging my QA and accounting background to verify data accuracy and ensure compliance with strict organizational standards[cite: 1, 2].
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Zaret-133&show_icons=true&theme=tokyonight&count_private=true" width="400px" alt="Zaret's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaret-133&theme=tokyonight" width="400px" alt="Zaret's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-**📫 Connect with Me:** https://www.linkedin.com/in/zaret-cortorreal/ | zaret.belioska@gmail.com
+
+### 📁 Key Lab Repositories
+
+*   ⚡ **[Foundations Lab Final](https://github.com/Zaret-133/Foundations_Lab_Final)**: System architecture configurations and automated core environment scripts[cite: 2].
+*   🛡️ **[Backend Security Portfolio](https://github.com/Zaret-133/Backend-Security-Portfolio)**: Robust automated testing frameworks built to handle API tracking and logic integrity[cite: 1, 2].
+*   🐍 **[Cybersecurity Lab Tools](https://github.com/Zaret-133/Cybersecurity-Lab-Tools)**: Custom Python multi-threading automation tools optimized for rapid network scanning[cite: 2].
+
+---
+
+<div align="center">
+  📡 <b>Connect with Me:</b> 
+  <a href="https://www.linkedin.com/in/zaret-cortorreal">LinkedIn</a> | 
+  <a href="mailto:zaret.belioska@gmail.com">Email</a>
+</div>
+---
