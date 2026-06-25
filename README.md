@@ -22,11 +22,11 @@
 
 > `[INFO]` Loading profile data for Zaret Cortorreal...  
 > `[INFO]` 5+ Years QA Automation Experience detected.  
-> `[INFO]` Analytical Auditing Mindset engaged (B.S. Accounting).[cite: 1, 2]
+> `[INFO]` Analytical Auditing Mindset engaged (B.S. Accounting).
 
-I am a results-driven QA Automation Engineer with over 5 years of hands-on experience in Selenium, Java, API testing, and CI/CD workflows[cite: 1, 2]. Currently, I am expanding my technical perimeter as a Cybersecurity Fellow at The Knowledge House, mastering hands-on risk management, network security, and infrastructure hardening[cite: 2].
+I am a results-driven QA Automation Engineer with over 5 years of hands-on experience in Selenium, Java, API testing, and CI/CD workflows. Currently, I am expanding my technical perimeter as a Cybersecurity Fellow at The Knowledge House, mastering hands-on risk management, network security, and infrastructure hardening.
 
-My superpower is my background in **Accounting & Auditing**, which allows me to approach system vulnerabilities and compliance mapping with unmatched precision[cite: 1, 2]. 
+My superpower is my background in **Accounting & Auditing**, which allows me to approach system vulnerabilities and compliance mapping with unmatched precision. 
 
 ---
 
@@ -70,9 +70,9 @@ My superpower is my background in **Accounting & Auditing**, which allows me to 
 
 ### 📁 Key Lab Repositories
 
-*   ⚡ **[Foundations Lab Final](https://github.com/Zaret-133/Foundations_Lab_Final)**: System architecture configurations and automated core environment scripts[cite: 2].
-*   🛡️ **[Backend Security Portfolio](https://github.com/Zaret-133/Backend-Security-Portfolio)**: Robust automated testing frameworks built to handle API tracking and logic integrity[cite: 1, 2].
-*   🐍 **[Cybersecurity Lab Tools](https://github.com/Zaret-133/Cybersecurity-Lab-Tools)**: Custom Python multi-threading automation tools optimized for rapid network scanning[cite: 2].
+*   ⚡ **[Foundations Lab Final](https://github.com/Zaret-133/Foundations_Lab_Final)**: System architecture configurations and automated core environment scripts.
+*   🛡️ **[Backend Security Portfolio](https://github.com/Zaret-133/Backend-Security-Portfolio)**: Robust automated testing frameworks built to handle API tracking and logic integrity.
+*   🐍 **[Cybersecurity Lab Tools](https://github.com/Zaret-133/Cybersecurity-Lab-Tools)**: Custom Python multi-threading automation tools optimized for rapid network scanning.
 
 ---
 
